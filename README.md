@@ -1,4 +1,3 @@
-# GSoC_sub
 # Digital Microsphere
 
 ### Contents:
