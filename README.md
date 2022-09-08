@@ -23,10 +23,11 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
     The mesh generated from the python code is then imported into belnder to UV unwrap it in the required manner. Then the model is exported and then any image can be     chosen to mapping onto it according to its UV coordinates.
     This are the expected outputs that I showed in the proposal but I am still working on this part to improve it.
     ![image](https://user-images.githubusercontent.com/91690484/189043051-bfc45a66-f9d5-4e65-bd10-e516122481d5.png)
-
     
     ![image](https://user-images.githubusercontent.com/91690484/182139982-bdb7d14b-00ed-4298-b5a3-079a6b28eabc.png)
-    ![image](https://user-images.githubusercontent.com/91690484/182140178-2cbc32f7-ba69-40f7-af67-e6dc4c6f8cae.png)
+    
+    This is what the projected image looks like on a ellipsoid.
+    
     
 ### <h3 id="instructions">3. Installing Instructions</h3>
 - Clone the repositry into your computer<br> 
@@ -36,6 +37,9 @@ git clone <repo_link>
 - Tpye the following commands into the terminal to install the necessary things<br> 
 ```
 npm install electron
+```
+this command is to install electron modules into the project folder
+```
 virtualenv env
 source env/bin/activate
 pip install requirenments.txt
