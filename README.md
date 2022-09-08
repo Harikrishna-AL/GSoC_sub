@@ -20,11 +20,13 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
 
     ![image](https://user-images.githubusercontent.com/91690484/182136823-4bd264e7-66b7-4176-976a-531f63d6c2da.png)
   
-  - #### <h4 id="projecting">Stage #3: Projecting the embryo images onto the generated mesh</h4>![img1](https://user-images.githubusercontent.com/91690484/188880884-ba513769-6ed3-4245-a9e8-a36f3608b771.png)
-
+  - #### <h4 id="projecting">Stage #3: Projecting the embryo images onto the generated mesh</h4>
+    The mesh generated from the python code is then imported into belnder to UV unwrap it in the required manner. Then the model is exported and then any image can be     chosen to mapping onto it according to its UV coordinates.
     This are the expected outputs that I showed in the proposal but I am still working on this part to improve it.
-    ![image](https://user-images.githubusercontent.com/91690484/182139982-bdb7d14b-00ed-4298-b5a3-079a6b28eabc.png)
+    ![image](https://user-images.githubusercontent.com/91690484/189043051-bfc45a66-f9d5-4e65-bd10-e516122481d5.png)
+
     
+    ![image](https://user-images.githubusercontent.com/91690484/182139982-bdb7d14b-00ed-4298-b5a3-079a6b28eabc.png)
     ![image](https://user-images.githubusercontent.com/91690484/182140178-2cbc32f7-ba69-40f7-af67-e6dc4c6f8cae.png)
     
 ### <h3 id="instructions">3. Installing Instructions</h3>
