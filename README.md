@@ -34,17 +34,29 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
 ```
 git clone <repo_link>
 ```
-- Tpye the following commands into the terminal to install the necessary things<br> 
-```
-npm install electron
-```
-this command is to install electron modules into the project folder
-```
-virtualenv env
-source env/bin/activate
-pip install requirenments.txt
-npm start
-```
+- <h4>Tpye the following commands into the terminal to install the necessary things: </h4>
+  <br>
+  
+  To install electron modules into the project folder 
+  ```
+  npm install electron
+  ```
+  To create a virtual env type(You must have virtualenv installed first):
+  ```
+  virtualenv env
+  ```
+  To activate the virtual env
+  ```
+  source env/bin/activate
+  ```
+  To install the required python packages in our enviournment
+  ```
+  pip install requirenments.txt
+  ```
+  To start the application in elctron
+  ```
+  npm start
+  ```
 - The application will open after this command. You can see the embryo model in it. Now follow the user guide to use it.
 ![image](https://user-images.githubusercontent.com/91690484/188815554-f432c965-3092-4775-86ed-a2345d03e9dd.png)
 
