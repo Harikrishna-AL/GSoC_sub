@@ -51,7 +51,7 @@ git clone <repo_link>
   ```
   To install the required python packages in our environment
   ```
-  pip install requirenments.txt
+  pip install requirements.txt
   ```
   To start the application in elctron
   ```
