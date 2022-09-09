@@ -34,7 +34,7 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
 ```
 git clone <repo_link>
 ```
-- <h4>Tpye the following commands into the terminal to install the necessary things: </h4>
+- <h4>Type the following commands into the terminal to install the necessary things: </h4>
   <br>
   
   To install electron modules into the project folder 
@@ -49,7 +49,7 @@ git clone <repo_link>
   ```
   source env/bin/activate
   ```
-  To install the required python packages in our enviournment
+  To install the required python packages in our environment
   ```
   pip install requirenments.txt
   ```
