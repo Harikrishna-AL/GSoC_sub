@@ -70,10 +70,10 @@ git clone <repo_link>
 
 ![image](https://user-images.githubusercontent.com/91690484/188862650-a7e96be5-2242-4240-9145-926a88fb94b4.png)
 <br>
-<h3>Select two images of the embryo which represent it's two opposite sides</h3>
+<h3>Select two images of the embryo which represent its two opposite sides</h3>
 <br>
 
 ![img1](https://user-images.githubusercontent.com/91690484/188885611-adf56d48-34f7-4c09-889f-10642f35d97a.png)
 <br>
 
-<h3>Click the load the model button to load the new images that was selected in the previous step.</h3>
+<h3>Click the load the model button to load the new images that were selected in the previous step.</h3>
