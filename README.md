@@ -14,7 +14,7 @@ In some organisms like axolotl, the surface of the embryo is transparent and thu
   - #### <h4 id="image">Stage #1: Image Cropping and Processing</h4>
     In this stage, the main focus is to crop the images to get the required portion and do some image processing on it. The python file retreives the outline of the embryo and then uses it to find out the radius of the embryo in the x,y and z directions respecitvely.
   - #### <h4 id="mesh">Stage #2: Generating the Point Cloud and the 3D mesh</h4>
-    The python script take the three values of the radius of the embryo and using them it calculates all the 3d coordinates and then store it in a **_.ply_** file to get the point cloud.
+    The python script takes three values of the radius of the embryo and using them it calculates all the 3d coordinates and then store it in a **_.ply_** file to get the point cloud.
     Then, it takes the **_embryo.ply_** file and creates it's mesh using the **_open3d_** librabry of python.
 
     ![image](https://user-images.githubusercontent.com/91690484/182136823-4bd264e7-66b7-4176-976a-531f63d6c2da.png)
