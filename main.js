@@ -13,7 +13,7 @@ const createWindow = () => {
     })
     win.maximize()
     win.show()
-    win.loadFile(path.join(__dirname, 'test1.html'))
+    win.loadFile(path.join(__dirname, 'index.html'))
 
     win.on('closed', function() {
             app.quit();

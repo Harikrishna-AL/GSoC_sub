@@ -44,7 +44,7 @@ new MTLLoader()
         new OBJLoader()
             .setMaterials(materials)
             .setPath('./obj/')
-            .load('embryo.obj', function(object) {
+            .load('emb.obj', function(object) {
 
                 // object.position.y = -95;
                 scene.add(object);
