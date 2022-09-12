@@ -18,7 +18,7 @@ scene.add(gridHelper);
 const axesHelper = new THREE.AxesHelper(5);
 scene.add(axesHelper);
 
-const ambientLight = new THREE.AmbientLight(0xcccccc, 5);
+const ambientLight = new THREE.AmbientLight(0xcccccc, 1.5);
 scene.add(ambientLight);
 
 const pointLight = new THREE.PointLight(0xffffff, 5000);
