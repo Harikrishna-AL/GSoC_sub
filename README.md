@@ -41,11 +41,15 @@ git clone <repo_link>
   ```
   npm install electron
   ```
+  To install virtualenv
+  ```
+  pip install virtualenv
+  ```
   To create a virtual env type(You must have virtualenv installed first):
   ```
   virtualenv env
   ```
-  To activate the virtual env
+  To activate the virtual env (in Unix terminal)
   ```
   source env/bin/activate
   ```
