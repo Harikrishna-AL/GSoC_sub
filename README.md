@@ -1,5 +1,6 @@
 # Digital Microsphere
-
+### Updates:
+Currently, I am trying to acheive the same goal using NeRF. Link to the repo where this is being implemented https://github.com/Harikrishna-AL/embryo_nerf
 ### Contents:
 - [Project Summary](#summary)
 - [Stages of the project](#stages)
